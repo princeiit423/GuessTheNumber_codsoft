@@ -7,7 +7,7 @@ public class GuessTheNumberGame {
 
         int minRange = 1;
         int maxRange = 100;
-        int maxAttempts = 3;
+        int maxAttempts = 5;
         int rounds = 0;
         int totalAttempts = 0;
 
