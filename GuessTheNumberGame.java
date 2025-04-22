@@ -59,7 +59,7 @@ public class GuessTheNumberGame {
 
         // Display the user's score
         System.out.println(
-                "Game over! You played " + rounds + " rounds and took a total of " + totalAttempts + " attempts.");
+                "Game over KO! You played " + rounds + " rounds and took a total of " + totalAttempts + " attempts.");
 
         // Close the scanner
         scanner.close();
